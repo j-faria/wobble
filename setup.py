@@ -37,7 +37,7 @@ else:
     packages = ["wobble", "wobble.interp"]
 
 setup(
-    name="wobble",
+    name="MYwobble",
     version="0.0.1",
     license="MIT",
     author="Megan Bedell",
